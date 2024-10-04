@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62.62" height="21" viewBox="0 0 62.62 21">
+  <g id="Group_4" data-name="Group 4" transform="translate(-1628.088 -14)">
+    <text id="Login" transform="translate(1650.708 31)" fill="#000001" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Login</tspan></text>
+    <path id="Icon_open-account-login" data-name="Icon open-account-login" d="M4.733,0V1.578h6.31V9.465H4.733v1.578H12.62V0ZM6.31,3.155V4.733H0V6.31H6.31V7.888L9.465,5.521Z" transform="translate(1628.088 19.979)" fill="#f6b400"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.798" height="21" viewBox="0 0 107.798 21">
+  <g id="Group_6" data-name="Group 6" transform="translate(-1644.924 -14)">
+    <text id="Android_app" data-name="Android app" transform="translate(1665.722 31)" fill="#000001" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Android app</tspan></text>
+    <g id="Icon_ionic-logo-android" data-name="Icon ionic-logo-android" transform="translate(1639.299 15.113)">
+      <g id="Group_7" data-name="Group 7" transform="translate(5.625 7.934)">
+        <path id="Path_9" data-name="Path 9" d="M10.125,15.844v2.749a.4.4,0,0,0,.35.429h.877v1.6a.736.736,0,1,0,1.472,0v-1.6h1.5v1.6a.733.733,0,0,0,.27.571.685.685,0,0,0,.451.166h.015a.734.734,0,0,0,.736-.736v-1.6h.847A.4.4,0,0,0,17,18.6V13.5H10.125Z" transform="translate(-8.162 -13.009)" fill="#f6b400"/>
+        <path id="Path_10" data-name="Path 10" d="M27.736,12.375a.734.734,0,0,0-.736.736v2.945a.736.736,0,1,0,1.472,0V13.111A.734.734,0,0,0,27.736,12.375Z" transform="translate(-17.674 -12.375)" fill="#f6b400"/>
+        <path id="Path_11" data-name="Path 11" d="M6.361,12.375a.734.734,0,0,0-.736.736v2.945a.736.736,0,1,0,1.472,0V13.111A.734.734,0,0,0,6.361,12.375Z" transform="translate(-5.625 -12.375)" fill="#f6b400"/>
+      </g>
+      <path id="Path_12" data-name="Path 12" d="M15.254,5.268l.568-.672c.012-.015-.006-.049-.04-.077s-.074-.031-.083-.012l-.589.7a4.167,4.167,0,0,0-1.552-.27A4.2,4.2,0,0,0,12,5.2l-.583-.687c-.012-.015-.049-.012-.083.012s-.052.055-.04.077l.561.663a3.109,3.109,0,0,0-1.73,2.675h6.859A3.091,3.091,0,0,0,15.254,5.268ZM12.051,6.8a.408.408,0,1,1,.414-.408A.413.413,0,0,1,12.051,6.8Zm3.019,0a.408.408,0,1,1,.414-.408A.413.413,0,0,1,15.07,6.8Z" transform="translate(-2.537)" fill="#f6b400"/>
+    </g>
+  </g>
+</svg>

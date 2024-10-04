@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #F8FBFA;
+    position: relative;
+}
+.one{
+  @apply absolute top-[-7%] left-0 w-[700px] z-[-1] 
+}
+.two{
+    @apply absolute top-5 right-0 w-[600px] z-[-1] overflow-hidden
+}
+.three{
+    @apply absolute top-[40%] left-0 w-[700px] z-[-1] 
+}
